@@ -12,9 +12,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 
-/**
- * Created by Ajay on 2015-06-14.
- */
+
 public class Profile extends Fragment {
 
     ActionBarDrawerToggle drawerToggle;
